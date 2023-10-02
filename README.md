@@ -1,13 +1,12 @@
-<h1 align="center">Hi 👋, I'm Lauro Correia Silveira</h1>
-<h3 align="center">I am a Computer science degree working as Java Software Engineer in Spain</h3>
+<h1 style="text-align: center">Hi 👋, I'm Lauro Correia Silveira</h1>
 
 - 🔭 I’m currently working on **AtSistemas**
 
-- 🌱 I’m currently learning **Spring cloud, Apache Kafka, Server discovery, microservices**
+- 🌱 I’m currently learning **Microservices, Apache Kafka, Design Patterns and Architecture**
 
 - 👨‍💻 All of my projects are available at [https://github.com/LauroSilveira](https://github.com/LauroSilveira)
 
-- 💬 Ask me about **Java,Spring boot, Spring core, Apache Kafka**
+- 💬 Ask me about **Java, Spring Boot, Spring core, Apache Kafka**
 
 - 📫 How to reach me **lauro.silveira@outlook.com.br**
 
