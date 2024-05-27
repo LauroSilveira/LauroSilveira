@@ -1,9 +1,7 @@
-<h1 style="text-align: center">Hi 👋, I'm Lauro Correia Silveira</h1>
+<h1 style="text-align: center">Hi, I'm Lauro Correia Silveira</h1>
 
-- 🔭 I’m currently working on **Sopra Steria**
 - 🌱 I’m currently learning **Microservices, Apache Kafka, Design Patterns, Devops and Architecture**
-- 💬 Ask me about **Java, Spring Boot, Spring MVC, Apache Kafka, Devops and Architecture**
-- 📫 How to reach me **lauro.silveira@outlook.com.br**
+- 💬 Ask me about **Java, Spring Boot, Spring MVC, Apache Kafka, Devops and Software Architecture**
 
 <h3 align="left">Connect with me:</h3>
 <p>
